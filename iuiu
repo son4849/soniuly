@@ -1,0 +1,20 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving button | Jessica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <h2 class="question">Sơn còn iu Ly nữaaa hongg👉👈</h2>
+        <h4 class="question-prompt">Nếu Sơn không chọn hoặc thoát là Sơn ghét Ly</h4>
+        <img class="gif" alt="gif" src="https://media.giphy.com/media/PcCh9x9Pz5d2CriuMQ/giphy.gif">
+        <div class="btn-group">
+            <button class="yes-btn">Không iu Ly😠</button>
+            <button class="no-btn" style="left: 2198px; top: 782px;">có iuu Ly😽</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
